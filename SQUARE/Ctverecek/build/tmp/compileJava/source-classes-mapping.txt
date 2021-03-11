@@ -1,6 +1,0 @@
-Main.java
- Main
-Cords.java
- Cords
-Shadery.java
- Shadery
